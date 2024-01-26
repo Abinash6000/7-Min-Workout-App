@@ -67,13 +67,3 @@ If you would like to contribute to the development of the 7 Minute Workout App, 
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- The 7 Minute Workout App is inspired by the scientific 7-minute workout routine popularized by research articles.
-- Special thanks to the Android and Kotlin development communities for their valuable contributions and support.
-
-Feel free to reach out to us for any questions or feedback!
